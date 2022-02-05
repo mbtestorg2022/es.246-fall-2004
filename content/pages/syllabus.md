@@ -21,18 +21,137 @@ For the first part of each meeting, our discussion will focus on current events 
 Course Calendar
 ---------------
 
-| WEEK # | Topics |
-| --- | --- |
-| 1 | Introduction and Political Systems of Thought |
-| 2 | What is a just war? Were the wars in Iraq and Afghanistan just? |
-| 3 | What is a just war? Were the wars in Iraq and Afghanistan just? (cont.) |
-| 4 | Is pornography sexist? Should it be regulated? |
-| 5 | How should we treat criminals? What constitutes "cruel and unusual" punishment? |
-| 6 | Should we legalize marijuana? How should we treat other drugs? |
-| 7 | What is the future of Social Security?  {{< br >}}  {{< br >}}Guest Speaker: Toh Ne Win from Goldman Sachs |
-| 8 | In what forms does discrimination exist in our society today? Should the government step in to stop discrimination? |
-| 9 | Is outsourcing of jobs a problem? If so, what should we do? |
-| 10 | The Arab-Israeli Conflict: Where can we go from here? |
-| 11 | Should abortion be regulated? |
-| 12 | Genocide in Rwanda and Sudan: How should we react? |
-| 13 | Is it ever right to break the law?
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Political Systems of Thought
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What is a just war? Were the wars in Iraq and Afghanistan just?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+What is a just war? Were the wars in Iraq and Afghanistan just? (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Is pornography sexist? Should it be regulated?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+How should we treat criminals? What constitutes "cruel and unusual" punishment?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Should we legalize marijuana? How should we treat other drugs?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+What is the future of Social Security?  
+  
+Guest Speaker: Toh Ne Win from Goldman Sachs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+In what forms does discrimination exist in our society today? Should the government step in to stop discrimination?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Is outsourcing of jobs a problem? If so, what should we do?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Arab-Israeli Conflict: Where can we go from here?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Should abortion be regulated?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Genocide in Rwanda and Sudan: How should we react?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Is it ever right to break the law?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

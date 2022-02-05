@@ -47,18 +47,181 @@ Some English language news sources that we recommend include:
 
 You can also see [world-newspapers.com](http://www.world-newspapers.com/) for an enormous list of newspapers, magazines, and other news sources from around the world.
 
-| WEEK # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Introduction and Political Systems of Thought | Take the quiz at [The Political Compass](http://www.politicalcompass.org/). |
-| 2 | What is a just war? Were the wars in Iraq and Afghanistan just? | &nbsp; |
-| 3 | What is a just war? Were the wars in Iraq and Afghanistan just? (cont.) | &nbsp; |
-| 4 | Is pornography sexist? Should it be regulated? | &nbsp; |
-| 5 | How should we treat criminals? What constitutes "cruel and unusual" punishment? | &nbsp; |
-| 6 | Should we legalize marijuana? How should we treat other drugs? | Movie: Mann, Ron. _Grass_. 1999. |
-| 7 | What is the future of Social Security?  {{< br >}}  {{< br >}}Guest Speaker: Toh Ne Win from Goldman Sachs | &nbsp; |
-| 8 | In what forms does discrimination exist in our society today? Should the government step in to stop discrimination? | Look around at [Black People Love Us](http://www.blackpeopleloveus.com/).  {{< br >}}  {{< br >}}Find a modern-day work of fiction, movie clip, website, essay, piece of art, song, or other work that you find racist or sexist. Please bring it in if possible and be prepared to discuss it in class. |
-| 9 | Is outsourcing of jobs a problem? If so, what should we do? | Class Debate: Prepare a ten minute argument, coordinated with your assigned group. |
-| 10 | The Arab-Israeli Conflict: Where can we go from here? | &nbsp; |
-| 11 | Should abortion be regulated? | &nbsp; |
-| 12 | Genocide in Rwanda and Sudan: How should we react? | Movie: Bradshaw, Steve. _Rwanda: The Triumph of Evil_. PBS Frontline. 1998. |
-| 13 | Is it ever right to break the law? |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Political Systems of Thought
+{{< tdclose >}}
+{{< tdopen >}}
+Take the quiz at [The Political Compass](http://www.politicalcompass.org/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What is a just war? Were the wars in Iraq and Afghanistan just?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+What is a just war? Were the wars in Iraq and Afghanistan just? (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Is pornography sexist? Should it be regulated?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+How should we treat criminals? What constitutes "cruel and unusual" punishment?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Should we legalize marijuana? How should we treat other drugs?
+{{< tdclose >}}
+{{< tdopen >}}
+Movie: Mann, Ron. _Grass_. 1999.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+What is the future of Social Security?  
+  
+Guest Speaker: Toh Ne Win from Goldman Sachs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+In what forms does discrimination exist in our society today? Should the government step in to stop discrimination?
+{{< tdclose >}}
+{{< tdopen >}}
+Look around at [Black People Love Us](http://www.blackpeopleloveus.com/).  
+  
+Find a modern-day work of fiction, movie clip, website, essay, piece of art, song, or other work that you find racist or sexist. Please bring it in if possible and be prepared to discuss it in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Is outsourcing of jobs a problem? If so, what should we do?
+{{< tdclose >}}
+{{< tdopen >}}
+Class Debate: Prepare a ten minute argument, coordinated with your assigned group.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Arab-Israeli Conflict: Where can we go from here?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Should abortion be regulated?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Genocide in Rwanda and Sudan: How should we react?
+{{< tdclose >}}
+{{< tdopen >}}
+Movie: Bradshaw, Steve. _Rwanda: The Triumph of Evil_. PBS Frontline. 1998.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Is it ever right to break the law?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
